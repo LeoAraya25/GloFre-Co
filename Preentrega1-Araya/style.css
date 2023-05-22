@@ -14,7 +14,7 @@
 } */
 
 .header{
-    background-color: #f6d9d9 !important;
+    background-color: #1849d0b3 !important;
     display: flex;
     
 }
@@ -52,13 +52,14 @@ body {
 }
 
 .footer{
-    background-color: aqua;
+    background-color: rgba(0, 0, 0, 0.709);
     margin: 0;
-    padding: 50px;
+    padding: 30px;
 }
 
 .ul-footer{
     list-style: none;
+    text-decoration: none;
     display: flex;
     align-items: center;
     justify-content: space-around;
